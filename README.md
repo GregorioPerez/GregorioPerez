@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gregorio Perez
-- 👀 I’m interested in programming using PL/SQL, HTML, CSS, JavaScript, Java, C#
+- 👀 I’m interested in programming using PL/SQL, HTML, CSS, JavaScript, Java, C#, PHP
 - 🌱 I’m currently learning JavaScript, Java and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
